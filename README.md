@@ -3,13 +3,6 @@
 - 🎓 Studying Database at FATEC - São José dos Campos
 - 🎯 Full-stack Developer!
 
-### 📊 Statistics:
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=darloscaniel&theme=tokyonight" />
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darloscaniel&layout=compact&theme=tokyonight&langs_count=8&card_width=450" />
-</div>
-
 ### 💻 Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,js,ts,spring,laravel,vue,docker,git,github,gitlab,postgres,mysql)](https://skillicons.dev)
